@@ -7,4 +7,4 @@
 
 ## Y como ultimo paso para ya terminar de ver si esta todo bien instalado, se escribio un pequeño programa llamado hello.c que imprima por pantalla un "Hello World" y tambien se comprobó con un Makefile que ejecute la misma función, y una vez hecho esto lo compilamos con gcc, g++ y hacemos uso de make.
 
-<img src="https://github.com/GnzLC/SSL/blob/main/00-CHelloWorld/terminal.png"/>
+<img src="https://github.com/GnzLC/SSL/blob/main/00-CHelloWorld/newTerminal.png"/>
